@@ -1,5 +1,6 @@
 Computer vision is a field of study focused on enabling machines to interpret, understand, and analyze visual data, allowing them to mimic and augment human-like perception and cognitive abilities in processing images and videos.
 ![image](https://github.com/MANASNANDMOHAN/Computer_Vision/assets/132326345/7e144216-a898-41ae-9b53-959cb12ff387)
+
 Computer vision is a multidisciplinary field of study that empowers machines with the ability to interpret and understand visual information from the world. 
 It encompasses the development of algorithms, models, and systems that enable computers to gain insights from images, videos, or any visual data.
 
@@ -21,18 +22,20 @@ Machine Learning in Computer Vision: With the advent of machine learning, partic
 
 ## Experiments
 The following experiments are currently included in this repository:
-Image Preprocessing
-Implementation of filtering technique
-Implementation of Edge Detection
-Face & Eye Detection Using HaarCascade
-Implementing Image Restoration
-Performing Various Operation on Image using OpenCv
+**Image Preprocessing
+**Implementation of filtering technique
+**Implementation of Edge Detection
+**Face & Eye Detection Using HaarCascade
+**Implementing Image Restoration
+**Performing Various Operation on Image using OpenCv
+
 ## Requirements
 Required Python packages :
-OpenCv
-Pillow
-Numpy
-Pandas
-Matplotlib
+**OpenCv
+**Pillow
+**Numpy
+**Pandas
+**Matplotlib
+
 #[Go Through My Personal Note](https://manasnandmohan.notion.site/manasnandmohan/Computer-Vision-aa8e4d00b98a48a4bc1c2324e6fc7a80)
  
