@@ -22,11 +22,17 @@ Machine Learning in Computer Vision: With the advent of machine learning, partic
 
 ## Experiments
 The following experiments are currently included in this repository:
-+Image Preprocessing
-**Implementation of filtering technique
-**Implementation of Edge Detection
-**Face & Eye Detection Using HaarCascade
-**Implementing Image Restoration
+
+Image Preprocessing
+
+Implementation of filtering technique
+
+Implementation of Edge Detection
+
+Face & Eye Detection Using HaarCascade
+
+Implementing Image Restoration
+
 **Performing Various Operation on Image using OpenCv
 
 ## Requirements
