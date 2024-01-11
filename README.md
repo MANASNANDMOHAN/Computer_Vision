@@ -33,7 +33,7 @@ Face & Eye Detection Using HaarCascade
 
 Implementing Image Restoration
 
-**Performing Various Operation on Image using OpenCv
+Performing Various Operation on Image using OpenCv
 
 ## Requirements
 Required Python packages :
